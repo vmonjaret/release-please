@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/vmonjaret/release-please/compare/v1.1.0...v1.1.1) (2023-05-23)
+
+
+### Miscellaneous
+
+* **container:** add Dockerfile ([01d7cb2](https://github.com/vmonjaret/release-please/commit/01d7cb265e7e211bc071675cd3d815176de08d0b))
+
 ## [1.1.0](https://github.com/vmonjaret/release-please/compare/v1.0.0...v1.1.0) (2023-05-23)
 
 
