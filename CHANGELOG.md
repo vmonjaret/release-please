@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/vmonjaret/release-please/compare/v1.2.1...v1.2.2) (2023-07-28)
+
+
+### Miscellaneous
+
+* **release:** rename image ([eac1d26](https://github.com/vmonjaret/release-please/commit/eac1d266ebb79be39ffb89d80f8b51ba6c85160c))
+
 ## [1.2.1](https://github.com/vmonjaret/release-please/compare/v1.2.0...v1.2.1) (2023-07-28)
 
 
