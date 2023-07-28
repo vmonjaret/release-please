@@ -28,7 +28,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: vmonjaret/release-please
+          images: vmonjaret/release-please/release-please
       -
         name: Build and push
         uses: docker/build-push-action@v4
