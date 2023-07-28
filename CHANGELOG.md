@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.2.0](https://github.com/vmonjaret/release-please/compare/v1.1.1...v1.2.0) (2023-07-28)
+
+
+### Features
+
+* **helthcheck:** add memory check ([b321b4f](https://github.com/vmonjaret/release-please/commit/b321b4fb3ce8428c7e0a8128e124a498af38a4c7))
+
+
+### Bug Fixes
+
+* **healtcheck:** import terminus ([77936bd](https://github.com/vmonjaret/release-please/commit/77936bd9a98dd6d42a192cafa28c4d94d714c33a))
+
+
+### Miscellaneous
+
+* **docker:** simple image ([4b7be16](https://github.com/vmonjaret/release-please/commit/4b7be16464a18db37680b752d2d115c629f70f0b))
+
 ## [1.1.1](https://github.com/vmonjaret/release-please/compare/v1.1.0...v1.1.1) (2023-05-23)
 
 
