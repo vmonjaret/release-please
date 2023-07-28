@@ -59,6 +59,7 @@ $ npm run test:cov
 ```
 
 ## Contribute
+Use PR
 
 ## License
 
