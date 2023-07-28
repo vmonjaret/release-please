@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/vmonjaret/release-please/compare/v1.2.2...v1.3.0) (2023-07-28)
+
+
+### Features
+
+* dummy feature ([b93f1ba](https://github.com/vmonjaret/release-please/commit/b93f1ba6f3ee9cacaa2e4e63f6156cc3532cc828))
+
+
+### Miscellaneous
+
+* **doc:** add contribute ([2d7800c](https://github.com/vmonjaret/release-please/commit/2d7800c35e6380ad949f86a9d652f06465413368))
+
 ## [1.2.2](https://github.com/vmonjaret/release-please/compare/v1.2.1...v1.2.2) (2023-07-28)
 
 
