@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/vmonjaret/release-please/compare/v1.3.0...v1.3.1) (2023-07-31)
+
+
+### Miscellaneous
+
+* add CI ([3185887](https://github.com/vmonjaret/release-please/commit/3185887fa69e4b73736b626f6c7a01dc161616ed))
+
 ## [1.3.0](https://github.com/vmonjaret/release-please/compare/v1.2.2...v1.3.0) (2023-07-28)
 
 
